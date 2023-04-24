@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApplicationCoreGLSI-B.props" />
+</Project>

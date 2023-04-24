@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplicationCoreGLSI_B
+build_property.RootNamespace = WebApplicationCoreGLSI_B
+build_property.ProjectDir = D:\GLSI\c#\WebApplicationCoreGLSI-B\WebApplicationCoreGLSI-B\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\GLSI\c#\WebApplicationCoreGLSI-B\WebApplicationCoreGLSI-B
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Categorie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Categorie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Categorie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Categorie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Produit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Produit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Shared/_Nav_Bar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZfQmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/SousCategorie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291c0NhdGVnb3JpZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/SousCategorie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291c0NhdGVnb3JpZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GLSI/c\#/WebApplicationCoreGLSI-B/WebApplicationCoreGLSI-B/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ja1k5brhwx

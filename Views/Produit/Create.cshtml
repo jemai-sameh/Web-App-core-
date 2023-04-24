@@ -1,0 +1,58 @@
+﻿@model WebApplicationCoreGLSI_B.Models.ViewModels.ProduitVM
+
+<h1>Create</h1>
+<h4>Produit</h4>
+<hr />
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+<div>
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly"></div><input type="hidden" aspfor="produit.Id" />
+        <div>
+            <table class="table table-sm table-bordered table-striped">
+                <tr>
+                    <th> <label asp-for="produit.Name"></label></th>
+                    <td>
+                        <input asp-for="produit.Name" class="form-control" placeholder="Enter
+produit name" /><span asp-validation-for="produit.Name"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <th> <label asp-for="produit.DateAjoutProduit"></label></th>
+                    <td>
+                        <input asp-for="produit.DateAjoutProduit" class="form-control"
+                               placeholder="Enter ajout date" /><span asp-validationfor="produit.DateAjoutProduit"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <th><label asp-for="photo"></label></th>
+                    <td>
+                        <input asp-for="photo" accept="image/*" type="file" class="form-control" />
+                        <span asp-validation-for="photo" class="text-danger" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <button type="submit" class="btn btn-primary"
+                                style="width:107px">
+                            Save Produit
+                        </button>
+                    </th>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <th>
+                            @Html.ActionLink("Back To List", "Index", new { /* id=item.PrimaryKey*/ }, new { @class = "btn btn-success" })
+                    </th>
+                    <td> </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</div>
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+        }
